@@ -3,6 +3,8 @@
  ## Introduction
    This project focuses on analyzing road safety data to identify patterns and factors contributing to accidents. I developed a Power BI dashboard to visualize key performance indicators (KPIs) and derive actionable insights.
 
+## Dataset
+- <a href="https://github.com/Maz-khan/Road-safety-Data-Analysis-Dashboard/blob/main/Road%20Safety%20Data.pbix">Dataset</a>
 
 
  ## Objectives
