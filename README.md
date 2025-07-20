@@ -21,7 +21,8 @@ Tools Used: Microsoft Power BI
 - Build visuals according to the dataset.
 
 ## Dashboard
-<img width="604" height="340" alt="Road Safety Dashboard Img" src="https://github.com/user-attachments/assets/22bbc478-0569-4f3b-8919-9a664b8b28a6" />
+<img width="604" height="340" alt="Road Safety Dashboard Img" src="https://github.com/user-attachments/assets/77214fe9-f255-445e-9b18-41dac2055e56" />
+
 
 
  ## Insights
